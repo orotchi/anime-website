@@ -2,3 +2,17 @@
     margin: 30px;
     border: 1px solid red;
 }
+
+.login-form input {
+    border: 2px solid;
+    display: block;
+    margin: 2px;
+}
+
+.border-radius {
+    border-radius: 30px;;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
